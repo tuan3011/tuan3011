@@ -51,5 +51,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuan3011&show_icons=true&theme=radium&hide_border=true" alt="Vo Thanh Tuan's GitHub stats" />
+  <a href="https://github.com/tuan3011">
+    <img src="https://github-readme-stats.vercel.app/api?username=tuan3011&show_icons=true&theme=radium&hide_border=true" alt="Vo Thanh Tuan's GitHub stats" />
+  </a>
 </p>
