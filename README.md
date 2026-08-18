@@ -47,11 +47,3 @@
 - **Tech Stack**: ESP32, Arduino IDE, C/C++, DHT11, MQ-2, MQ-7, MQ-135, RESTful APIs.
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/tuan3011">
-    <img src="https://github-readme-stats.vercel.app/api?username=tuan3011&show_icons=true&theme=radium&hide_border=true" alt="Tuan's GitHub stats" />
-  </a>
-</p>
