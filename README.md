@@ -1,49 +1,44 @@
-<h1 align="center">Hi 👋, I'm Vo Thanh Tuan</h1>
-<h3 align="center">Software Engineering Student & Aspiring Backend Developer Intern</h3>
+# Võ Thanh Tuấn 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/thanhtuan3011/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:vothanhtuan3011@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</p>
+Software Engineering student focused on Java backend development, API architecture, and database design.
 
----
+## 👨‍💻 Professional Summary
+I am a Software Engineering undergraduate at FPT University specializing in backend systems. My core technical focus is the Java and Spring ecosystem, where I build robust RESTful APIs and design relational databases. I approach software engineering through practical project development, translating business requirements into scalable backend workflows, and maintaining a strict daily discipline of algorithmic problem-solving.
 
-### 👨‍💻 About Me
-- 🎓 I am a Bachelor of Software Engineering student at FPT University (2024 - Present).
-- 🎯 I am actively seeking a Backend Developer Intern position.
-- 💻 My strong interests lie in Java, Spring Boot, and RESTful API development.
-- 🗣 I am currently a Teaching Assistant (Team Leader) at VUS - Vietnam USA Society English Centers.
-- 👥 In this role, I lead a team of 4 Teaching Assistants and collaborate closely with foreign teachers.
-- 🌍 I hold an IELTS Academic certification with an Overall band of 6.0.
-- 📫 Based in Bien Hoa, Dong Nai.
+## 🎯 Current Focus
+- **Backend Architecture:** Structuring and implementing RESTful APIs with Spring Boot.
+- **Problem Solving:** Ongoing [365-day LeetCode journey](https://github.com/tuan3011/365-Days-of-LeetCoding-with-Me) to master Data Structures and Algorithms.
+- **Engineering Fundamentals:** Clean code practices, OOP design patterns, and database normalization.
 
----
+## 🛠️ Technical Stack
+- **Languages:** Java, SQL, C++
+- **Backend & APIs:** Spring Boot, RESTful APIs
+- **Databases:** Microsoft SQL Server, MySQL
+- **Engineering & Tools:** Git, GitHub, Swagger/OpenAPI, Postman, OOP, MVC
 
-### 🛠️ Tech Stack & Tools
+## 🚀 Engineering Work
 
-- **Programming Languages**: Java, C/C++, HTML/CSS.
-- **Backend & Concepts**: Spring Boot, RESTful APIs, Object-Oriented Programming (OOP), MVC Architecture.
-- **Databases**: SQL, Microsoft SQL Server, MySQL.
-- **Development Tools**: Git, GitHub, IntelliJ IDEA, Visual Studio Code, Swagger, Postman.
+### [SEAL - Hackathon Management System](https://github.com/tuan3011/SEAL-Hackathon-Management)
+*Backend Developer | Java, Spring Boot, SQL Server*
+- Designed and implemented RESTful API workflows to support core hackathon management operations.
+- Handled data persistence and database design using SQL Server.
+- Documented API endpoints with Swagger/OpenAPI for clear frontend integration.
 
----
+### [IoT Indoor Air Quality Monitor](https://github.com/tuan3011/IoT-Indoor-Air-Quality-Monitor)
+*IoT Developer | C++, ESP32*
+- Engineered a smart environmental monitoring system processing real-time sensor data (DHT11, MQ series).
+- Developed a 10-level alert system and an embedded real-time web dashboard for data visualization.
+- Demonstrated systems programming and hardware-software integration capabilities.
 
-### 🚀 Featured Projects
+## 🧠 Continuous Learning
+**[365 Days of LeetCoding](https://github.com/tuan3011/365-Days-of-LeetCoding-with-Me)**  
+A dedicated personal initiative to solve algorithmic challenges daily. This practice strengthens my analytical thinking, improves code efficiency, and builds the long-term discipline required for professional software engineering.
 
-**SEAL - Software Engineering Hackathon Management System**
-- **Role**: Backend Developer (Academic Project).
-- **Timeline**: May 2026 - Present.
-- **Description**: Implemented and integrated RESTful APIs using Spring Boot, translated requirements into backend workflows, and refined AI-assisted code.
-- **Tech Stack**: Java, Spring Boot, SQL Server, RESTful APIs, Git, Swagger/OpenAPI.
+## 👥 Professional Experience
+**Teaching Assistant (Team Leader) | VUS**  
+Coordinated a team of 4 Teaching Assistants and collaborated directly with international teachers. This role developed my ability to communicate technical concepts, lead small teams, and operate effectively within a structured organizational environment.
 
-**IoT Indoor Air Quality Monitoring System**
-- **Role**: IoT Developer (Academic Project).
-- **Timeline**: Jan 2026 - Mar 2026.
-- **Description**: Developed an IoT-based indoor air quality monitoring system using ESP32 and multiple environmental sensors (DHT11, MQ series).
-- **Tech Stack**: ESP32, Arduino IDE, C/C++, DHT11, MQ-2, MQ-7, MQ-135, RESTful APIs.
-
----
+## 📫 Contact
+- **LinkedIn:** [in/thanhtuan3011](https://www.linkedin.com/in/thanhtuan3011/)
+- **Email:** [vothanhtuan3011@gmail.com](mailto:vothanhtuan3011@gmail.com)
+- **LeetCode:** [ttuan3011](https://leetcode.com/u/ttuan3011/)
