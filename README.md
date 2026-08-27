@@ -7,6 +7,7 @@ I am a Software Engineering undergraduate at FPT University specializing in back
 
 ## Current Focus
 - **Backend Architecture:** Structuring and implementing RESTful APIs with Spring Boot.
+- **Framework Internals:** Deep-diving into Spring Boot and Hibernate mechanisms through hands-on debugging in my [learning laboratory](https://github.com/tuan3011/SpringBoot-with-Me).
 - **Problem Solving:** Ongoing [365-day LeetCode journey](https://github.com/tuan3011/365-Days-of-LeetCoding-with-Me) to master Data Structures and Algorithms.
 - **Engineering Fundamentals:** Clean code practices, OOP design patterns, and database normalization.
 
@@ -31,6 +32,10 @@ I am a Software Engineering undergraduate at FPT University specializing in back
 - Demonstrated systems programming and hardware-software integration capabilities.
 
 ## Continuous Learning
+
+**[SpringBoot-with-Me](https://github.com/tuan3011/SpringBoot-with-Me)**  
+A long-term learning laboratory documenting my journey to master Java Backend internals. The goal is to move beyond "cargo-cult" programming to deeply understand how Spring Boot and Hibernate operate under the hood through debugging, breaking code, and practical experiments.
+
 **[365 Days of LeetCoding](https://github.com/tuan3011/365-Days-of-LeetCoding-with-Me)**  
 A dedicated personal initiative to solve algorithmic challenges daily. This practice strengthens my analytical thinking, improves code efficiency, and builds the long-term discipline required for professional software engineering.
 
